@@ -1,6 +1,7 @@
 While inside the backend folder on terminal, npm install to get all modules and dependancies. Same for the frontend folder as well.
 Using node server.js command, run backend. Using npm start command, run frontend. 
 Once both are connected, the application would run on the local machine. 
+Video link for Working Application - https://drive.google.com/file/d/1dbVu2bHe3xMCWyNgIgi4hP57IzV7LJ4j/view?usp=drive_link
 
 
 
